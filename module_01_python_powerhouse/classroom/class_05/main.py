@@ -1,4 +1,4 @@
-# comparision operator
+# comparison operator
 # ==, !=,<=,>=,<,>
 a = 12
 b = 45
